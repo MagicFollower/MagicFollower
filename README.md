@@ -1,15 +1,7 @@
-### Hello,World!
+ ![welcome](https://github.com/MagicFollower/MagicFollower/blob/main/rc/img/mona-love-2x.png?raw=true)
 
- ![welcome](https://github.com/MagicFollower/MagicFollower/blob/main/rc/img/mona-whisper.gif?raw=true)
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-***<u>END.</u>***
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MagicFollower/MagicFollower/blob/022314d2c5553a2d7991517eb9eed0051cc94e9b/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MagicFollower/MagicFollower/blob/022314d2c5553a2d7991517eb9eed0051cc94e9b/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/MagicFollower/MagicFollower/blob/022314d2c5553a2d7991517eb9eed0051cc94e9b/github-contribution-grid-snake.svg" />
+</picture>
