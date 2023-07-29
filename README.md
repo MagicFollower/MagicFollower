@@ -1,6 +1,6 @@
 ### Hello,World!
 
-<br/>
+ ![welcome](https://github.com/MagicFollower/MagicFollower/blob/main/rc/img/mona-whisper.gif?raw=true)
 
 <br/>
 
